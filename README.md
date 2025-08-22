@@ -15,3 +15,7 @@ This project allows users to **Start, Pause, and Reset** the timer with a clean 
 - **HTML5** → Structure of the app  
 - **CSS3** → Styling and layout  
 - **JavaScript (ES6)** → Stopwatch functionality  
+
+## 📷 Preview  
+![Stopwatch Screenshot]()
+
