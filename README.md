@@ -17,5 +17,5 @@ This project allows users to **Start, Pause, and Reset** the timer with a clean 
 - **JavaScript (ES6)** → Stopwatch functionality  
 
 ## 📷 Preview  
-![Stopwatch Screenshot]()
+![Stopwatch Screenshot](https://github.com/aakanksharajput14/SCT_WD_02/blob/main/Screenshot%202025-08-22%20112708.png)
 
